@@ -24,3 +24,5 @@ Tutorial: Introduction to python for data science - a hands on perspective
     - Pandas, Numpy, Json, Shapely, Folium, Choropleth maps 
 - Uber behavior (price and time estimation) to Natal 
     - Uber API, Pandas, Choropleth maps
+- UFRN Open Data initiative
+- Connected Vehicles
